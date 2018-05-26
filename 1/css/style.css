@@ -1,0 +1,12 @@
+
+li{list-style: none;}
+a{text-decoration: none;}
+span{display: block;}
+
+.goods_first{height: 403px;width: 224px;float: left;margin-left: 20px;}
+.goods_first img{width: 100%;height: 340px;}
+.goods_first_price{display: inline-block;font: 16px;color: #f36;margin-right: 2px;}
+.goods_first_like{display: inline-block;float: right;font-size: 14px;color: #999;}
+.goods_first_like img{width: 17px;height: 15px;}
+.goods_first_logo{border-radius: 8px 0;width: 47px;height: 20px;color: #FFFFFF;background: #FF3366;outline: none;border: none;font-size: 12px;text-align: center;}
+.goods_first_logo_text{display: block;font-size: 12px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;width: 150px;height: 16px;margin-left: 70px;margin-top: -17px;color: #999999;}
